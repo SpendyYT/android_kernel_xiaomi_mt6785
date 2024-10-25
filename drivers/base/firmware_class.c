@@ -370,7 +370,7 @@ static char fw_path_para[256];
 static const char * const fw_path[] = {
 	fw_path_para,
 	"/vendor/firmware",
-        "/lib/firmware/postmarketos/".
+        "/lib/firmware/postmarketos/",
 	"/system/vendor/firmware",
 	"/system/etc/firmware",
 	"/mnt/vendor/",
